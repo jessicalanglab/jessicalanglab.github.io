@@ -1,0 +1,27 @@
+title:              Lang Lab
+email:              jessica.lang@wisc.edu
+description:        Translational Ovarian Cancer Genetics and Epigenetics Lab at University of Wisconsin-Madison, headed by Jessica Lang
+author:             Start Bootstrap
+baseurl:            ""
+url:                "https://jessicalanglab.github.io"
+
+# Social Profiles
+twitter_username:   jessicalangphd
+github_username:    jessicalanglab
+facebook_username:
+instagram_username:
+linkedin_username:  jessica-lang-33149a75
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-295833093-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-remote-github_username
+remote_theme:       StartBootstrap/startbootstrap-clean-blog-jekyll

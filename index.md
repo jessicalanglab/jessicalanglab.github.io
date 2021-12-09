@@ -1,0 +1,13 @@
+---
+layout: home
+background: '/img/Watercolorovary.jpg'
+---
+
+<p align="center">
+      <a href="https://pathology.wisc.edu/">
+        <img src="img/pathology_logo.jpg" alt="Dept of Pathology and Laboratory Medicine webpage">
+      </a>
+      <a href="https://chgpm.wisc.edu/">
+        <img src="img/chgpm_logo.jpg" alt="Center for Human Genomics and Precision Medicine webpage">
+      </a>
+</p>
