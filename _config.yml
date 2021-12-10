@@ -13,7 +13,7 @@ instagram_username:
 linkedin_username:  jessica-lang-33149a75
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-295833093-X # out your google-analytics code
+google_analytics:   UA-296321817-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
@@ -24,4 +24,5 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
   - jekyll-remote-github_username
+  - jekyll-seo-tag
 remote_theme:       StartBootstrap/startbootstrap-clean-blog-jekyll
