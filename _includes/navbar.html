@@ -9,12 +9,12 @@ $(document).ready(function() {
   $(window).scroll(function() {
     if ($(document).scrollTop() < 50) {
       $('nav').addClass('transparent');
-      $('.image1').show();
-      $('.image2').hide();
+      $('.img1').show();
+      $('.img2').hide();
     } else {
       $('nav').removeClass('transparent').css('color: black');
-      $('.image2').show();
-      $('.image1').hide();
+      $('.img2').show();
+      $('.img1').hide();
     }
   });
 });
