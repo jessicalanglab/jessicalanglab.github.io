@@ -16,7 +16,7 @@ background: '/img/bg-pipetting.jpg'
 
 ###### Center for Genomic Science Innovation Affiliate Faculty Member
 
-Jessica obtained her bachelors (Genetics, 2005) and doctorate (Cancer Biology, 2014) at the University of Wisconsin-Madison. She then completed two postdoctoral fellowships at Arizona State University and The Translational Genomics Research Institute (TGen). Jessica was awarded an NCI K99/R00 in 2019 to focus her studies on the role of super-enhancers in high-grade serous ovarian carcinomas. She joined the University of Wisconsin-Madison faculty in 2021, where she will leverage her experience in translational biology, genomics, and epigenetics.  
+Jessica obtained her bachelors (Genetics, 2009) and doctorate (Cancer Biology, 2014) at the University of Wisconsin-Madison. She then completed two postdoctoral fellowships at Arizona State University and The Translational Genomics Research Institute (TGen). Jessica was awarded an NCI K99/R00 in 2019 to focus her studies on the role of super-enhancers in high-grade serous ovarian carcinomas. She joined the University of Wisconsin-Madison faculty in 2021, where she will leverage her experience in translational biology, genomics, and epigenetics.  
 In her spare time, Jessica enjoys spending time with her family, cooking, outdoors activities, reading, and game nights.
 
 <img src="img/Adams_Kristin_182.jpg" alt="Kristin Adams headshot" width="400"/>
