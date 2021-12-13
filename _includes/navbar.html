@@ -1,17 +1,21 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
   <div class="container">
-    <a href="/" class="navbar-brand-img"><img src="img/Lablogo.png" alt="Logo"></a>
+    <a href="/" class="navbar-brand img"><img src="img/Lablogo.png" alt="Logo"></a>
     <!-- /.navbar-brand -->
 <script>
 $(document).ready(function() {
   $(window).scroll(function() {
-    if ($(document).scrollTop() > 50) {
-      $('.navbar-brand-img').attr('src','img/Lablogoblack.png');
-    } else {
-      $('.navbar-brand-img').attr('src','img/Lablogo.png');
-    }
-  });
+    if ($(".navbar").offset().top > 50) {
+    $('#mainNav').addClass('affix');
+    $(".navbar-fixed-top").addClass("top-nav-collapse");
+    $('.navbar-brand img').attr('src','img/Lablogoblack.png'); //change src
+} else {
+    $('#mainNav').removeClass('affix');
+    $(".navbar-fixed-top").removeClass("top-nav-collapse");
+    $('.navbar-brand img').attr('src','img/Lablogo.png')
+}
+});
 });
 </script>
 
