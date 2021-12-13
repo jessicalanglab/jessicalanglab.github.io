@@ -43,16 +43,4 @@
             });
     }
 
-    // update logo based on scrolling
-    $(window).scroll(function() {
-        if ($(".navbar").offset().top > 50) {
-            $('#custom-nav').addClass('affix');
-            $(".navbar-fixed-top").addClass("top-nav-collapse");
-            $('.navbar-brand img').attr('src','img/Lablogoblack.png'); //change src
-        } else {
-            $('#custom-nav').removeClass('affix');
-            $(".navbar-fixed-top").removeClass("top-nav-collapse");
-            $('.navbar-brand img').attr('src','img/Lablogo.png')
-        }
-    });
 })(jQuery); // End of use strict
