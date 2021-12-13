@@ -24,7 +24,7 @@ In her spare time, Jessica enjoys spending time with her family, cooking, outdoo
 
 ###### Research Specialist
 
-Kristin obtained her bachelors (Human Biology-Health Science Emphasis, 2015) at the University of Wisconsin-Green Bay and her masters (Cell and Molecular Biology, 2017) at University of Wiconsin-La Crosse. Her masters thesis work characterized BRCA1-deficient breast cancer cells with acquired resistance to CHK1 inhibitor therapy. Kristin joined the Lang lab as Research Specialist in 2021.
+Kristin obtained her bachelors (Human Biology-Health Science Emphasis, 2015) at the University of Wisconsin-Green Bay and her masters (Cell and Molecular Biology, 2017) at University of Wiconsin-La Crosse. Her masters thesis work characterized BRCA1-deficient breast cancer cells with acquired resistance to CHK1 inhibitor therapy. Kristin joined the Lang lab as Research Specialist in 2021 after spending almost 4.5 years as a Research Specialist and Lab Manager within UW's Human Oncology Department. Outside of work Kristin is an active volunteer with various dog rescue groups and is a part-time assistant trainer with Dog's Best Friend Training in Madison. She enjoys spending her free time with her family at home, and her favorite activity is exploring new hiking spots in the area.
 <br/><br/>
 # We're growing our team!
 
