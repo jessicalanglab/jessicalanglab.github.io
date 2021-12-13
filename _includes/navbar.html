@@ -6,10 +6,10 @@
 <script>
 $(document).ready(function() {
   $(window).scroll(function() {
-    if ($(document).scrollTop() < 50) {
-      $('.navbar-brand-img').attr('src','img/Lablogo.png');
-    } else {
+    if ($(document).scrollTop() > 50) {
       $('.navbar-brand-img').attr('src','img/Lablogoblack.png');
+    } else {
+      $('.navbar-brand-img').attr('src','img/Lablogo.png');
     }
   });
 });
