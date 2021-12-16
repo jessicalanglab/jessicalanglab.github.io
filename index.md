@@ -13,9 +13,9 @@ background: '/img/Watercolorovary.jpg'
 
 <p align="center">
       <a href="https://pathology.wisc.edu/">
-        <img src="img/pathology_logo.jpg" alt="Dept of Pathology and Laboratory Medicine webpage" width="200">
+        <img src="img/pathology_logo.jpg" alt="Dept of Pathology and Laboratory Medicine webpage" width="350">
       </a>
       <a href="https://chgpm.wisc.edu/">
-        <img src="img/chgpm_logo.jpg" alt="Center for Human Genomics and Precision Medicine webpage" width="200">
+        <img src="img/chgpm_logo.jpg" alt="Center for Human Genomics and Precision Medicine webpage" width="350">
       </a>
 </p>
