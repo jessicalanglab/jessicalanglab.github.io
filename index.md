@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Lang Lab | UW-Madison
+title: Home
 background: '/img/Watercolorovary.jpg'
 ---
 
