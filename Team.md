@@ -31,6 +31,7 @@ Outside of work Kristin is an active volunteer with various dog rescue groups an
 
 ###### Research Assistant
 
+<br/><br/>
 ### Sydney Olson
 
 ###### Research Assistant
