@@ -9,8 +9,6 @@ background: '/img/Watercolorovary.jpg'
 ### We're hiring postdocs and students!
 [***Postdocs***](https://jobrxiv.org/job/university-of-wisconsin-madison-27778-research-associate-postdoc/)
 
-[***Undergraduates***](https://studentjobs.hr.wisc.edu/cw/en-us/job/500218/research-assistant)
-
 <br/>
 <p align="center">
       <a href="https://pathology.wisc.edu/"><img src="img/pathology_logo.jpg" alt="Dept of Pathology and Laboratory Medicine webpage" width="350"></a>
