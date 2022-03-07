@@ -9,9 +9,9 @@ background: '/img/Watercolorovary.jpg'
 
 <br/>
 <p align="center">
-      <a href="https://pathology.wisc.edu/"><img src="img/pathology_logo.jpg" alt="Dept of Pathology and Laboratory Medicine webpage" width="350"></a>
-      <a href="https://chgpm.wisc.edu/"><img src="img/chgpm_logo.jpg" alt="Center for Human Genomics and Precision Medicine webpage" width="350"></a>
+      <a href="https://pathology.wisc.edu/"><img src="img/PATH.png" alt="Dept of Pathology and Laboratory Medicine webpage" width="350"></a>
+      <a href="https://chgpm.wisc.edu/"><img src="img/CHGPM.png" alt="Center for Human Genomics and Precision Medicine webpage" width="350"></a>
       </p>
 <p align="center">
-      <a href="https://cancer.wisc.edu/research/"><img src="img/UWCCC.jpg" alt="University of Wisconsin Carbone Cancer Center webpage" width="225"></a>
+      <a href="https://cancer.wisc.edu/research/"><img src="img/UWCCC.png" alt="University of Wisconsin Carbone Cancer Center webpage" width="350"></a>
       </p>
