@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 description: Publications from the Lang Lab and Dr. Jessica Lang’s previous work
-background: '/img/news.jpg'
+background: '/img/news1.jpg'
 ---
 
 ### 2021
