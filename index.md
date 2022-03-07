@@ -13,5 +13,5 @@ background: '/img/Watercolorovary.jpg'
       <a href="https://chgpm.wisc.edu/"><img src="img/CHGPM.png" alt="Center for Human Genomics and Precision Medicine webpage" width="350"></a>
       </p>
 <p align="center">
-      <a href="https://cancer.wisc.edu/research/"><img src="img/UWCCC.png" alt="University of Wisconsin Carbone Cancer Center webpage" width="350"></a>
+      <a href="https://cancer.wisc.edu/"><img src="img/UWCCC.png" alt="University of Wisconsin Carbone Cancer Center webpage" width="350"></a>
       </p>
