@@ -39,19 +39,17 @@ Outside of work, Kendra enjoys reading, working out, traveling, and spending tim
 
 ###### Research Assistant
 
-<br/><br/>
 ### Srihari Gopalan
 
 ###### Research Assistant
 
-<br/><br/>
 ### Sydney Olson
 
 ###### Research Assistant
 <br/><br/>
 
 # We're growing our team!
-
+<br/><br/>
 ### Postdocs
 We continuously review highly qualified postdoc applicants.
 [Please submit CV & cover letter here](mailto:jessica.lang@wisc.edu).
