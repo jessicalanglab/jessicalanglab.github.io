@@ -32,8 +32,8 @@ Outside of work Kristin is an active volunteer with various dog rescue groups an
 
 ###### Research Specialist
 
-Kendra obtained her bachelors (Microbiology, 2015) and masters (Veterinary Medicine, 2017) at Chungbuk National University in South Korea. For her master's thesis, she studied the potential of engineered stem cells as delivery vehicles for treatment of malignant melanoma. Kendra joined the Lang lab as a Research Specialist in 2022.
-Outside of work, Kendra enjoys reading, working out, traveling, and spending time with her family. 
+Kendra obtained her bachelors (Microbiology, 2015) and masters (Veterinary Medicine, 2017) at Chungbuk National University in South Korea. For her master's thesis, she studied the potential of engineered stem cells as delivery vehicles for treatment of malignant melanoma. Kendra joinÂed the Lang lab as a Research Specialist in 2022.
+Outside of work, Kendra enjoys reading, working out, traveling, and spending time with her family.
 
 ### Josie Wood
 
@@ -53,8 +53,6 @@ Outside of work, Kendra enjoys reading, working out, traveling, and spending tim
 # We're growing our team!
 
 ### Postdocs
-[***Open position***](https://jobrxiv.org/job/university-of-wisconsin-madison-27778-research-associate-postdoc/)  
-
 We continuously review highly qualified postdoc applicants.
 [Please submit CV & cover letter here](mailto:jessica.lang@wisc.edu).
 
