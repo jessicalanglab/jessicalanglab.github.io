@@ -37,21 +37,17 @@ Outside of work, Kendra enjoys reading, working out, traveling, and spending tim
 
 ### Josie Wood
 
-###### Research Assistant
-
+###### Research Assistant  
 
 ### Srihari Gopalan
 
-###### Research Assistant
-
+###### Research Assistant  
 
 ### Sydney Olson
 
-###### Research Assistant
+###### Research Assistant  
 
-
-# We're growing our team!
-          
+# We're growing our team!  
 
 ### Postdocs
 We continuously review highly qualified postdoc applicants.
