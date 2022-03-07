@@ -51,7 +51,7 @@ Outside of work, Kendra enjoys reading, working out, traveling, and spending tim
 
 
 # We're growing our team!
-
+ 
 
 ### Postdocs
 We continuously review highly qualified postdoc applicants.
