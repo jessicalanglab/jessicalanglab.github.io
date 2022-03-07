@@ -46,7 +46,7 @@ Outside of work, Kendra enjoys reading, working out, traveling, and spending tim
 ### Sydney Olson
 
 ###### Research Assistant  
-
+<br></br>
 # We're growing our team!  
 
 ### Postdocs
