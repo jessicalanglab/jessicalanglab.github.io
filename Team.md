@@ -32,22 +32,23 @@ Outside of work Kristin is an active volunteer with various dog rescue groups an
 
 ###### Research Specialist
 
-Kendra obtained her bachelors (Microbiology, 2015) and masters (Veterinary Medicine, 2017) at Chungbuk National University in South Korea. For her master's thesis, she studied the potential of engineered stem cells as delivery vehicles for treatment of malignant melanoma. Kendra joinÂed the Lang lab as a Research Specialist in 2022.
+Kendra obtained her bachelors (Microbiology, 2015) and masters (Veterinary Medicine, 2017) at Chungbuk National University in South Korea. For her master's thesis, she studied the potential of engineered stem cells as delivery vehicles for treatment of malignant melanoma. Kendra joined the Lang lab as a Research Specialist in 2022.
 Outside of work, Kendra enjoys reading, working out, traveling, and spending time with her family.
 
 ### Josie Wood
 
 ###### Research Assistant  
+Josie is a Junior majoring in Biology.
 
 ### Srihari Gopalan
 
 ###### Research Assistant  
+Srihari is a Sophomore majoring in Biomedical Engineering.
 
 ### Sydney Olson
 
 ###### Research Assistant  
-
-<br> </br>
+Sydney is a Freshman majoring in Biology.
 
 # We're growing our team!  
 
