@@ -5,7 +5,7 @@ description: Standardized workflows for genomics analysis
 background: '/img/bg-about.jpg'
 ---
 
-#### Bioinformatics Docs Table of Contents
+#### [Bioinformatics Docs](https://jessicalanglab.github.io/Resources/BioinformaticDocs) Table of Contents
 + [GitHub](https://jessicalanglab.github.io/Resources/BioinformaticDocs/GitHub)
 + [Computing platforms](https://jessicalanglab.github.io/Resources/BioinformaticDocs/ComputingPlatforms)
 + [Lab Pipelines](https://jessicalanglab.github.io/Resources/BioinformaticDocs/pipelines)
