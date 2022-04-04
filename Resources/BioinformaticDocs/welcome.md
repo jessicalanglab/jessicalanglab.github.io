@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lab resources
-description: Useful information for lab
+title: Bioinformatics Docs
+description: Your guide to getting started in our computing environment
 background: '/img/bg-about.jpg'
 ---
 
