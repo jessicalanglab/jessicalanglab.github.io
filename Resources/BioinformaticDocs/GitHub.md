@@ -5,9 +5,12 @@ description: Connecting to and using our GitHub account
 background: '/img/bg-about.jpg'
 ---
 
-<!---
-Placeholder for TOC
---->
+#### Bioinformatics Docs Table of Contents
++ [GitHub](https://jessicalanglab.github.io/Resources/BioinformaticDocs/GitHub)
++ [Computing platforms](https://jessicalanglab.github.io/Resources/BioinformaticDocs/ComputingPlatforms)
++ [Lab Pipelines](https://jessicalanglab.github.io/Resources/BioinformaticDocs/pipelines)
++ [Data Storage](https://jessicalanglab.github.io/Resources/BioinformaticDocs/storage)
++ [Electronic Lab Notebooks for Bioinformatics](https://jessicalanglab.github.io/Resources/BioinformaticDocs/notes)
 
 ## GitHub
 Our lab maintains a GitHub account ([jessicalanglab](https://github.com/jessicalanglab)) for project-related repositories. It is expected that you will contribute to GitHub respositories on which you contribute, and use our maintained repositories for reproducibility.

@@ -5,9 +5,12 @@ description: Lab best practices for data storage
 background: '/img/bg-about.jpg'
 ---
 
-<!---
-Placeholder for TOC
---->
+#### Bioinformatics Docs Table of Contents
++ [GitHub](https://jessicalanglab.github.io/Resources/BioinformaticDocs/GitHub)
++ [Computing platforms](https://jessicalanglab.github.io/Resources/BioinformaticDocs/ComputingPlatforms)
++ [Lab Pipelines](https://jessicalanglab.github.io/Resources/BioinformaticDocs/pipelines)
++ [Data Storage](https://jessicalanglab.github.io/Resources/BioinformaticDocs/storage)
++ [Electronic Lab Notebooks for Bioinformatics](https://jessicalanglab.github.io/Resources/BioinformaticDocs/notes)
 
 ## Importance of data storage
 Sequencing is expensive!! So is time and computing resources!! Be very thoughtful in what and how you remove old data. Tend to err towards saving too much, as we can always remove data later on, but we are less likely to be able to recover it.   

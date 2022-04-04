@@ -5,9 +5,12 @@ description: Lab best practices for notes
 background: '/img/bg-about.jpg'
 ---
 
-<!---
-Placeholder for TOC
---->
+#### Bioinformatics Docs Table of Contents
++ [GitHub](https://jessicalanglab.github.io/Resources/BioinformaticDocs/GitHub)
++ [Computing platforms](https://jessicalanglab.github.io/Resources/BioinformaticDocs/ComputingPlatforms)
++ [Lab Pipelines](https://jessicalanglab.github.io/Resources/BioinformaticDocs/pipelines)
++ [Data Storage](https://jessicalanglab.github.io/Resources/BioinformaticDocs/storage)
++ [Electronic Lab Notebooks for Bioinformatics](https://jessicalanglab.github.io/Resources/BioinformaticDocs/notes)
 
 ## Electronic Lab Notebooks
 Electronic Lab Notebooks (ELN) are a documentation of the steps and procedures performed to generate data in the lab. This is essential for lab records, importantly for being able to report data processing in publications and for the lab to replicate data analysis.  

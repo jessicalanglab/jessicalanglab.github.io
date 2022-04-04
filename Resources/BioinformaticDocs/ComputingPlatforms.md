@@ -4,10 +4,12 @@ title: Our Computing Platforms
 description: Your guide to getting started
 background: '/img/bg-about.jpg'
 ---
-
-<!---
-Placeholder for TOC
---->
+#### Bioinformatics Docs Table of Contents
++ [GitHub](https://jessicalanglab.github.io/Resources/BioinformaticDocs/GitHub)
++ [Computing platforms](https://jessicalanglab.github.io/Resources/BioinformaticDocs/ComputingPlatforms)
++ [Lab Pipelines](https://jessicalanglab.github.io/Resources/BioinformaticDocs/pipelines)
++ [Data Storage](https://jessicalanglab.github.io/Resources/BioinformaticDocs/storage)
++ [Electronic Lab Notebooks for Bioinformatics](https://jessicalanglab.github.io/Resources/BioinformaticDocs/notes)
 
 ## Where will you compute?
 We use different computing resources depending on the job at hand.

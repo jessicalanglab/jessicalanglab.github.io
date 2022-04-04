@@ -5,9 +5,12 @@ description: Standardized workflows for genomics analysis
 background: '/img/bg-about.jpg'
 ---
 
-<!---
-Placeholder for TOC
---->
+#### Bioinformatics Docs Table of Contents
++ [GitHub](https://jessicalanglab.github.io/Resources/BioinformaticDocs/GitHub)
++ [Computing platforms](https://jessicalanglab.github.io/Resources/BioinformaticDocs/ComputingPlatforms)
++ [Lab Pipelines](https://jessicalanglab.github.io/Resources/BioinformaticDocs/pipelines)
++ [Data Storage](https://jessicalanglab.github.io/Resources/BioinformaticDocs/storage)
++ [Electronic Lab Notebooks for Bioinformatics](https://jessicalanglab.github.io/Resources/BioinformaticDocs/notes)
 
 ## Genomics analysis pipelines
 Our lab is using NextFlow, a workflow manager for scientific analysis, primarily focused on genomic analysis. The nextflow core (nf-core) community has developed well-tested workflows for many standard analyses that we will leverage directly. These are implemented from docker images that pull in all necessary software, etc. to run the pipeline. Read more in the [Nextflow](https://www.nextflow.io/docs/latest/index.html) and [nf-core](https://nf-co.re/) documentation.
