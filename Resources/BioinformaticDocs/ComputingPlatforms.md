@@ -20,20 +20,20 @@ We use different computing resources depending on the job at hand.
 
 #### Logging in
 1. Ensure that you are either hard-wired (ethernet) connected on campus, or connected by VPN. Note that if you need to access our RestrictedDrive, you must be connected to the smph.vpn.wisc.edu VPN portal.
-2. For computing, connect to the BRC VM in your command line app
-`ssh brc12.secure.biotech.wisc.edu`
+2. For computing, connect to the BRC VM in your command line app  
+>`ssh brc12.secure.biotech.wisc.edu`  
 3. You will be prompted for our lab's shared username and password. Please request this information from Jessi Lang or other members of the lab.
 
 #### BRC VM structure
 Upon login, you will automatically land at /home/BIOTECH/jlang. This is the home directory for our lab's VM where computing will take place. Note that this is a shared lab space, so please be respectful of others data.
 
-BRC maintains extensive software available to all BRC server users (/mnt/software).
+BRC maintains extensive software available to all BRC server users (`/mnt/software`).
 
-BRC also maintains many reference genomes (/mnt/genomes).
+BRC also maintains many reference genomes (`/mnt/genomes`).
 
 #### Data transfers
-All data transfers on BRC VMs must be done within the data transfer server, which is a separate ssh login (same credentials):
-`ssh brchome.ad.biotech.wisc.edu`
+All data transfers on BRC VMs must be done within the data transfer server, which is a separate ssh login (same credentials):  
+>`ssh brchome.ad.biotech.wisc.edu`
 
 Our BRC VM account has a total of 1TB of space allocated, and thus is only meant for active use during analysis. Our long-term data storage is on the Lang Lab RestrictedDrive (aka ResearchDrive). To move data from RestrictedDrive to the BRC VM, you must use Globus.
 
@@ -48,8 +48,8 @@ To connect RestrictedDrive > Globus:
 To connect Globus > BRC VM account:
 + (TBD)
 
-To transfer from BRC VM to your local machine, you must be in a directory on your local computer (i.e. not ssh'ed into BRC VM)
-`scp jlang@brchome.ad.biotech.wisc.edu:path/to/file /path/to/your/local/folder`
+To transfer from BRC VM to your local machine, you must be in a directory on your local computer (i.e. not ssh'ed into BRC VM)  
+>`scp jlang@brchome.ad.biotech.wisc.edu:path/to/file /path/to/your/local/folder`
 
 #### BRC VM specs
 + 6 CPUs

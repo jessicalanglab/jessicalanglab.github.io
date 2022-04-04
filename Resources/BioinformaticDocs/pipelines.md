@@ -29,12 +29,12 @@ Our lab is using NextFlow, a workflow manager for scientific analysis, primarily
 | nf-core/atacseq | ATAC-seq |
 
 ### Using NextFlow within our BRC VM
-NextFlow is not available as official BRC software, but we have installed it in our home directory. To run NextFlow commands:
-`cd /home/BIOTECH/jlang/tools/nf`
-`./nextflow <your command, inputs and arguments as required by nextflow>`
+NextFlow is not available as official BRC software, but we have installed it in our home directory. To run NextFlow commands:  
+>`cd /home/BIOTECH/jlang/tools/nf`  
+> `./nextflow <your command, inputs and arguments as required by nextflow>`
 
-Try a test NextFlow run to make sure everything is working as expected. We use the Singularity profile, since Singularity is installed on BRC. Below is an example for the RNA-seq pipeline, but you can see each tool's documentation for how to run a test.
-`./nextflow run nf-core/rnaseq -profile test,singularity --outdir /home/BIOTECH/jlang/results/RNAseq/<foldername>`
+Try a test NextFlow run to make sure everything is working as expected. We use the Singularity profile, since Singularity is installed on BRC. Below is an example for the RNA-seq pipeline, but you can see each tool's documentation for how to run a test.  
+> `./nextflow run nf-core/rnaseq -profile test,singularity --outdir /home/BIOTECH/jlang/results/RNAseq/<foldername>`
 
 To run your own data, generally you need to check the following things:
 + Availability of data you want to analyze within the BRC VM
