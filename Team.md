@@ -5,7 +5,10 @@ description: Current research team
 background: '/img/bg-pipetting.jpg'
 ---
 
-<img src="img/UW Lang_Jessica_764.jpg" alt="Jessica Lang headshot" width="400"/>
+<img src="img/ORIGINAL_to_JPEG-Jessica Lang WIMR Lab 1149900-1231.jpg" alt="Lang Lab members photo" width="700"/>
+Welcome to the Lang Lab! We have a great group of people working in our group.
+
+<img src="img/ORIGINAL_to_JPEG-Jessica Lang WIMR Lab 1149900-1533.jpg" alt="Jessica Lang headshot" width="400"/>
 ### Jessica Lang, PhD
 
 ###### Assistant Professor
