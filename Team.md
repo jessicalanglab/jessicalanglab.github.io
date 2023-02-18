@@ -25,7 +25,7 @@ In her spare time, Jessica enjoys spending time with her family, cooking, outdoo
 <img src="img/Adams_Kristin_182.jpg" alt="Kristin Adams headshot" width="400"/>
 ### Kristin Adams, MS
 
-###### Research Specialist
+###### Researcher I
 
 Kristin obtained her bachelors (Human Biology-Health Science Emphasis, 2015) at the University of Wisconsin-Green Bay and her masters (Cell and Molecular Biology, 2017) at University of Wiconsin-La Crosse. Her masters thesis work characterized BRCA1-deficient breast cancer cells with acquired resistance to CHK1 inhibitor therapy. Kristin joined the Lang lab as Research Specialist in 2021 after spending almost 4.5 years as a Research Specialist and Lab Manager within UW's Human Oncology Department.
 Outside of work Kristin is an active volunteer with various dog rescue groups and is a part-time assistant trainer with Dog's Best Friend Training in Madison. She enjoys spending her free time with her family at home, and her favorite activity is exploring new hiking spots in the area.
@@ -37,6 +37,11 @@ Outside of work Kristin is an active volunteer with various dog rescue groups an
 
 Kendra obtained her bachelors (Microbiology, 2015) and masters (Veterinary Medicine, 2017) at Chungbuk National University in South Korea. For her master's thesis, she studied the potential of engineered stem cells as delivery vehicles for treatment of malignant melanoma. Kendra joined the Lang lab as a Research Specialist in 2022.
 Outside of work, Kendra enjoys reading, working out, traveling, and spending time with her family.
+
+### Zhongmou Jin, MS
+
+###### Graduate Student  
+Jin is a graduate student in our lab.
 
 ### Josie Wood
 
@@ -52,6 +57,11 @@ Srihari is a Sophomore majoring in Biomedical Engineering.
 
 ###### Research Assistant  
 Sydney is a Freshman majoring in Biology.
+
+### Ryan Moreno
+
+###### Bioinformatics Assistant  
+Ryan is a Computer Science graduate student assisting us with our computational projects.
 
 # We're growing our team!  
 
