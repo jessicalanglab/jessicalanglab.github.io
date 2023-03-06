@@ -9,6 +9,7 @@ background: '/img/bg-pipetting.jpg'
 Welcome to the Lang Lab! We have a great group of people working in our group.
 
 <img src="img/ORIGINAL_to_JPEG-Jessica Lang WIMR Lab 1149900-1533.jpg" alt="Jessica Lang headshot" width="400"/>
+
 ### Jessica Lang, PhD
 
 ###### Assistant Professor
@@ -23,6 +24,7 @@ Jessica obtained her bachelors (Genetics, 2009) and doctorate (Cancer Biology, 2
 In her spare time, Jessica enjoys spending time with her family, cooking, outdoors activities, reading, and game nights.
 
 <img src="img/Adams_Kristin_182.jpg" alt="Kristin Adams headshot" width="400"/>
+
 ### Kristin Adams, MS
 
 ###### Researcher I
@@ -31,6 +33,7 @@ Kristin obtained her bachelors (Human Biology-Health Science Emphasis, 2015) at 
 Outside of work Kristin is an active volunteer with various dog rescue groups and is a part-time assistant trainer with Dog's Best Friend Training in Madison. She enjoys spending her free time with her family at home, and her favorite activity is exploring new hiking spots in the area.
 
 <img src="img/JaeRimKendraWendtPhoto.jpg" alt="Jae Rim (Kendra) Wendt headshot" width="400"/>
+
 ### Jae Rim (Kendra) Wendt, MS
 
 ###### Research Specialist
@@ -56,9 +59,11 @@ Srihari is a junior at UW-Madison, majoring in biomedical engineering. He has be
 ### Sydney Olson
 
 ###### Research Assistant  
-Sydney is a Freshman majoring in Biology.
+Sydney is a sophomore at UW-Madison, majoring in Biology with certificates in Global Health and Leadership. She has been a research assistant at the Lang Lab since January of 2022. Outside of the lab, Sydney enjoys baking, running, and spending time with family and friends.
 
 <img src="img/Screenshot 2023-03-06 at 10.25.50 AM.png" alt="Ryan Moreno headshot" width="400"/>
+
+
 ### Ryan Moreno
 ###### Bioinformatics Assistant  
 Ryan Moreno is a computer science graduate student at UW-Madison assisting with our computational projects. He obtained his bachelors in computer science from the University of Southern California in 2020. He has worked in a variety of research areas, including quantum computing, natural language processing, and medical prosthetics. Outside of work, Ryan enjoys running, soccer, hockey, and board games.
