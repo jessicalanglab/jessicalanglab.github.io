@@ -46,22 +46,22 @@ Jin is a graduate student in our lab.
 ### Josie Wood
 
 ###### Research Assistant  
-Josie is a Junior majoring in Biology.
+Josie is a senior at the University of Wisconsin-Madison working towards obtaining her bachelor’s degree in Biology. She joined the Lang lab as a Research Assistant in January of 2022 and has hopes to pursue medical school in the future. In her free time, Josie enjoys cooking, spin classes, volunteering at a local animal shelter, and checking out fun spots in Madison with her friends.
 
 ### Srihari Gopalan
 
 ###### Research Assistant  
-Srihari is a Sophomore majoring in Biomedical Engineering.
+Srihari is a junior at UW-Madison, majoring in biomedical engineering. He has been a research assistant at the Lang Lab since January 2022. Outside of research, Srihari enjoys playing tennis, traveling, and singing.
 
 ### Sydney Olson
 
 ###### Research Assistant  
 Sydney is a Freshman majoring in Biology.
 
+<img src="img/Screenshot 2023-03-06 at 10.25.50 AM.png" alt="Ryan Moreno headshot" width="400"/>
 ### Ryan Moreno
-
 ###### Bioinformatics Assistant  
-Ryan is a Computer Science graduate student assisting us with our computational projects.
+Ryan Moreno is a computer science graduate student at UW-Madison assisting with our computational projects. He obtained his bachelors in computer science from the University of Southern California in 2020. He has worked in a variety of research areas, including quantum computing, natural language processing, and medical prosthetics. Outside of work, Ryan enjoys running, soccer, hockey, and board games.
 
 # We're growing our team!  
 
@@ -72,4 +72,4 @@ We continuously review highly qualified postdoc applicants.
 ### Affiliated graduate programs
 [Cellular & Molecular Pathology](https://cmp.wisc.edu/)  
 [Cancer Biology](https://cancerbiology.wisc.edu/)  
-[Cellular and Molecular Biology](https://cmb.wisc.edu/)  
+[Cellular & Molecular Biology](https://cmb.wisc.edu/)  
