@@ -44,7 +44,7 @@ Outside of work, Kendra enjoys reading, working out, traveling, and spending tim
 ### Zhongmou Jin, MS
 
 ###### Graduate Student  
-Jin is a graduate student in our lab.
+Jin is a first year graduate student from the Cellular and Molecular Biology program. His work focuses on characterizing the functional requirement of super-enhancers in ovarian cancer. 
 
 ### Josie Wood
 
