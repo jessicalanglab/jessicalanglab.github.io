@@ -37,36 +37,43 @@ Outside of work Kristin is an active volunteer with various dog rescue groups an
 ### Jae Rim (Kendra) Wendt, MS
 
 ###### Research Specialist
-
 Kendra obtained her bachelors (Microbiology, 2015) and masters (Veterinary Medicine, 2017) at Chungbuk National University in South Korea. For her master's thesis, she studied the potential of engineered stem cells as delivery vehicles for treatment of malignant melanoma. Kendra joined the Lang lab as a Research Specialist in 2022.
 Outside of work, Kendra enjoys reading, working out, traveling, and spending time with her family.
+
+<img src="img/Bucky_pushups-768x375.jpg" alt="Bucky Pushups" width="400"/>
 
 ### Zhongmou Jin, MS
 
 ###### Graduate Student  
 Jin is a first year graduate student from the Cellular and Molecular Biology program. His work focuses on characterizing the functional requirement of super-enhancers in ovarian cancer. 
 
+<img src="img/Screenshot 2023-03-06 at 10.25.50 AM.png" alt="Ryan Moreno headshot" width="400"/>
+
+### Ryan Moreno
+###### Graduate Student 
+Ryan Moreno is a computer science graduate student at UW-Madison assisting with our computational projects. He obtained his bachelors in computer science from the University of Southern California in 2020. He has worked in a variety of research areas, including quantum computing, natural language processing, and medical prosthetics. Outside of work, Ryan enjoys running, soccer, hockey, and board games.
+
+<img src="img/Bucky_dances.jpg" alt="Bucky dances" width="400"/>
+
 ### Josie Wood
 
 ###### Research Assistant  
 Josie is a senior at the University of Wisconsin-Madison working towards obtaining her bachelor’s degree in Biology. She joined the Lang lab as a Research Assistant in January of 2022 and has hopes to pursue medical school in the future. In her free time, Josie enjoys cooking, spin classes, volunteering at a local animal shelter, and checking out fun spots in Madison with her friends.
+
+<img src="img/Bucky_improvise.jpg" alt="Bucky_improvise" width="400"/>
 
 ### Srihari Gopalan
 
 ###### Research Assistant  
 Srihari is a junior at UW-Madison, majoring in biomedical engineering. He has been a research assistant at the Lang Lab since January 2022. Outside of research, Srihari enjoys playing tennis, traveling, and singing.
 
+<img src="img/Bucky_headstand.jpg" alt="Bucky Headstand" width="400"/>
+
 ### Sydney Olson
 
 ###### Research Assistant  
 Sydney is a sophomore at UW-Madison, majoring in Biology with certificates in Global Health and Leadership. She has been a research assistant at the Lang Lab since January of 2022. Outside of the lab, Sydney enjoys baking, running, and spending time with family and friends.
 
-<img src="img/Screenshot 2023-03-06 at 10.25.50 AM.png" alt="Ryan Moreno headshot" width="400"/>
-
-
-### Ryan Moreno
-###### Bioinformatics Assistant  
-Ryan Moreno is a computer science graduate student at UW-Madison assisting with our computational projects. He obtained his bachelors in computer science from the University of Southern California in 2020. He has worked in a variety of research areas, including quantum computing, natural language processing, and medical prosthetics. Outside of work, Ryan enjoys running, soccer, hockey, and board games.
 
 # We're growing our team!  
 

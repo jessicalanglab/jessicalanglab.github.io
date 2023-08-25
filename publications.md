@@ -6,11 +6,17 @@ background: '/img/news1.jpg'
 ---
 The following is Dr. Lang's bibliography. Stay tuned for more great research to come!
 
+### 2023
+
+Lang JD, Nguyen TVV, Levin MK, Blas PE, Williams H, San Roman Rodriguez E, Briones N, Mueller C, Selleck W, Moore S, Zismann VL, Peck K, Hendricks WPD, Espina V, O’Shaughnessy. **Pilot clinical trial and phenotypic analysis in chemotherapy-pretreated, metastatic triple-negative breast cancer patients treated with oral TAK-228 and TAK-117 (PIKTOR) to increase DNA damage repair deficiency followed by cisplatin and nab paclitaxel.** Biomarker Research. 2023 Jul 25;11(1):73. doi: 10.1186/s40364-023-00511-7. PubMed PMID: 37491309; PubMed Central PMCID: PMC10369813.
+
+### 2022
+
+Hendricks WPD, Sekulic A, Bryce AH, Murtaza M, Ramos P, Lang JD, Whitsett TG, McDaniel TK, Rockne RC, Banovich N, Trent JM. **Cancer Genomics and Evolution.** Holland‐Frei Cancer Medicine [Internet]. 2022. p. 1–30. Available from: https://doi.org/10.1002/9781119000822.hfcm007.pub2.
+
 ### 2021
 
 Wei J, Zhang J, Wang D, Cen B, Lang JD, DuBois RN. **The COX-2-PGE2 Pathway Promotes Tumor Evasion in Colorectal Adenomas.** Cancer Prev Res (Phila). 2022 May 3;15(5):285-296. doi: 10.1158/1940-6207.CAPR-21-0572. PubMed PMID: 35121582; PubMed Central PMCID: PMC9064954.
-
-### 2021
 
 Halperin RF, Hegde A, Lang JD, Raupach EA; C4RCD Research Group, Legendre C, Liang WS, LoRusso PM, Sekulic A, Sosman JA, Trent JM, Rangasamy S, Pirrotte P, Schork NJ. **Improved methods for RNAseq-based alternative splicing analysis.** Sci Rep. 2021 May 24;11(1):10740. doi: 10.1038/s41598-021-89938-2. PMID: 34031440; PMCID: PMC8144374.
 
