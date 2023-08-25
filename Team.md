@@ -53,21 +53,21 @@ Jin is a first year graduate student from the Cellular and Molecular Biology pro
 ###### Graduate Student 
 Ryan Moreno is a computer science graduate student at UW-Madison assisting with our computational projects. He obtained his bachelors in computer science from the University of Southern California in 2020. He has worked in a variety of research areas, including quantum computing, natural language processing, and medical prosthetics. Outside of work, Ryan enjoys running, soccer, hockey, and board games.
 
-<img src="img/Bucky_dances.jpg" alt="Bucky dances" width="400"/>
+<img src="img/Bucky_dances.jpg" alt="Bucky dances" width="250"/>
 
 ### Josie Wood
 
 ###### Research Assistant  
 Josie is a senior at the University of Wisconsin-Madison working towards obtaining her bachelor’s degree in Biology. She joined the Lang lab as a Research Assistant in January of 2022 and has hopes to pursue medical school in the future. In her free time, Josie enjoys cooking, spin classes, volunteering at a local animal shelter, and checking out fun spots in Madison with her friends.
 
-<img src="img/Bucky_improvise.jpg" alt="Bucky_improvise" width="400"/>
+<img src="img/Bucky_improvise.jpg" alt="Bucky_improvise" width="250"/>
 
 ### Srihari Gopalan
 
 ###### Research Assistant  
 Srihari is a junior at UW-Madison, majoring in biomedical engineering. He has been a research assistant at the Lang Lab since January 2022. Outside of research, Srihari enjoys playing tennis, traveling, and singing.
 
-<img src="img/Bucky_headstand.jpg" alt="Bucky Headstand" width="400"/>
+<img src="img/Bucky_headstand.jpg" alt="Bucky Headstand" width="250"/>
 
 ### Sydney Olson
 
