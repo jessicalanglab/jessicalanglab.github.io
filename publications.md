@@ -9,11 +9,11 @@ The following is Dr. Lang's bibliography. Stay tuned for more great research to 
 ### Preprints in review
 Lang JD*. Selleck W, Striker S, Hipschman NA, Kofman R, Karnezis AN, Kommoss FKF, Komoss F, Wendt J, Facista SJ, Hendricks WPD, Orlando KA, Pirrotte P, Raupach EA, Zismann VL, Wang Y, Huntsman DG, Weissman BE, Trent JM. **Landscape of super-enhancers in small cell carcinoma of the ovary, hypercalcemic type and efficacy of targeting with natural product triptolide.** bioRxiv. 2023 September; doi: 10.1101/2023.09.08.556863. * corresponding author
 
-Harwood OE, Matschke LM, Moriarty RV, Balgeman AJ, Weaver AJ, Ellis-Connell AL, Weiler AM, Winchester LC, Fletcher CV, Friedrich TC, Keele BF, O’Connor DH, Lang JD, Reynolds MR, O’Connor SL. **CD8+ cells and small viral reservoirs facilitate post-ART control of SIV in Mauritian cynomologus macaques.** bioRxiv. 2023 March; doi: 10.1101/2023.03.01.530655. 
-
 Raupach EA, Garcia-Mansfield K, Sharma R, Hegde AM, David-Dirgo V, Wang Y, Young Shin C, Tao LV, Facista SJ, Moore R, Lang JD, Zismann VL, Orlando KA, Spillman M, Karnezis AN, Bennett LB, Huntsman DG, Trent JM, Hendricks WP, Weissman BE, Pirrotte P. **Novel functional insights revealed by distinct protein-protein interactions of the residual SWI/SNF complex in SMARCA4-deficient small cell carcinoma of the ovary, hypercalcemic type.** bioRxiv. 2019 October; doi: 10.1101/794776. 
 
 ### 2023
+
+Harwood OE, Matschke LM, Moriarty RV, Balgeman AJ, Weaver AJ, Ellis-Connell AL, Weiler AM, Winchester LC, Fletcher CV, Friedrich TC, Keele BF, O’Connor DH, Lang JD, Reynolds MR, O’Connor SL. **CD8+ cells and small viral reservoirs facilitate post-ART control of SIV in Mauritian cynomologus macaques.** bioRxiv. 2023 March; doi: 10.1101/2023.03.01.530655. Provisionally accepted at PLOS Pathogens on September 12, 2023.
 
 Lang JD, Nguyen TVV, Levin MK, Blas PE, Williams H, San Roman Rodriguez E, Briones N, Mueller C, Selleck W, Moore S, Zismann VL, Peck K, Hendricks WPD, Espina V, O’Shaughnessy. **Pilot clinical trial and phenotypic analysis in chemotherapy-pretreated, metastatic triple-negative breast cancer patients treated with oral TAK-228 and TAK-117 (PIKTOR) to increase DNA damage repair deficiency followed by cisplatin and nab paclitaxel.** Biomarker Research. 2023 Jul 25;11(1):73. doi: 10.1186/s40364-023-00511-7. PubMed PMID: 37491309; PubMed Central PMCID: PMC10369813.
 
