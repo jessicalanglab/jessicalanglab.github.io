@@ -12,11 +12,10 @@ Lang JD*. Selleck W, Striker S, Hipschman NA, Kofman R, Karnezis AN, Kommoss FKF
 Raupach EA, Garcia-Mansfield K, Sharma R, Hegde AM, David-Dirgo V, Wang Y, Young Shin C, Tao LV, Facista SJ, Moore R, Lang JD, Zismann VL, Orlando KA, Spillman M, Karnezis AN, Bennett LB, Huntsman DG, Trent JM, Hendricks WP, Weissman BE, Pirrotte P. **Novel functional insights revealed by distinct protein-protein interactions of the residual SWI/SNF complex in SMARCA4-deficient small cell carcinoma of the ovary, hypercalcemic type.** bioRxiv. 2019 October; doi: 10.1101/794776. 
 
 ### 2024
+
 Montemorano L, Shultz ZB, Farooque A, Hyun M, Chappell RJ, Hartenbach EM, Lang JD. **TP53 mutations and the association with platinum resistance in high grade serous ovarian carcinoma.** Gynecol Oncol. 2024 Mar 30;186:26-34. doi: 10.1016/j.ygyno.2024.03.023. [Epub ahead of print] PubMed PMID: 38555766.
 
 ### 2023
-
-Jessica D. Lang, William Selleck, Shawn Striker, Nicolle A. Hipschman, Rochelle Kofman, Anthony N. Karnezis, Felix K. F. Kommoss, Friedrich Kommoss, Jae Rim Wendt, Salvatore J. Facista, William P. D. Hendricks, Krystal A. Orlando, Patrick Pirrotte, Elizabeth A Raupach, Victoria L. Zismann, Yemin Wang, David G. Huntsman, Bernard E. Weissman, Jeffrey M. Trent. **Landscape of super-enhancers in small cell carcinoma of the ovary, hypercalcemic type and efficacy of targeting with natural product triptolide.** bioRxiv 2023/01:2023.09.08.556863. doi: 10.1101/2023.09.08.556863.
 
 Harwood OE, Matschke LM, Moriarty RV, Balgeman AJ, Weaver AJ, Ellis-Connell AL, Weiler AM, Winchester LC, Fletcher CV, Friedrich TC, Keele BF, O’Connor DH, Lang JD, Reynolds MR, O’Connor SL. **CD8+ cells and small viral reservoirs facilitate post-ART control of SIV in Mauritian cynomologus macaques.** PLoS Pathog. 2023 Sep;19(9):e1011676. doi: 10.1371/journal.ppat.1011676. eCollection 2023 Sep. PubMed PMID: 37747933; PubMed Central PMCID: PMC10553806.
 
