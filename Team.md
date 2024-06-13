@@ -67,6 +67,20 @@ Josie graduated from the University of Wisconsin-Madison in 2023 with her bachel
 ###### Research Assistant  
 Sydney is an undergraduate at UW-Madison, majoring in Biology with certificates in Global Health and Leadership. She has been a research assistant at the Lang Lab since January of 2022. Outside of the lab, Sydney enjoys baking, running, and spending time with family and friends.
 
+<img src="img/Bucky_dances.jpg" alt="Bucky Dances" width="250"/>
+
+### Amelia Rancour
+
+###### Research Assistant  
+Amelia is an undergraduate majoring in biochemistry at UW-Madison.  She joined the lab in May of 2024 as a research assistant.  Amelia plans to go to graduate school and become a scientific researcher.  In her free time, she likes to play the piano, read, crochet, hang out with friends, and play soccer.
+
+<img src="img/KevinShineGeorge.jpg" alt="Kevin Shine George photo" width="250"/>
+
+### Kevin Shine George
+
+###### Research Assistant  
+Kevin is an undergraduate student at UW-Madison, where he is pursuing dual majors in Computer Science and Data Science. He assists with our computational projects and aspires to attend graduate school in the future. Kevin's area of expertise primarily centers around data wrangling and analytics. Outside of his academic and professional pursuits, he enjoys staying active through badminton, working out, and reading, as well as listening to music and spending time with friends.
+
 # Former Lab Members:
 Srihari Gopalan - Research Assistant 
 
