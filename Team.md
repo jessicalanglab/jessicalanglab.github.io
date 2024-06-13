@@ -74,7 +74,7 @@ Sydney is an undergraduate at UW-Madison, majoring in Biology with certificates 
 ###### Research Assistant  
 Amelia is an undergraduate majoring in biochemistry at UW-Madison.  She joined the lab in May of 2024 as a research assistant.  Amelia plans to go to graduate school and become a scientific researcher.  In her free time, she likes to play the piano, read, crochet, hang out with friends, and play soccer.
 
-<img src="img/KevinShineGeorge.jpg" alt="Kevin Shine George photo" width="250"/>
+<img src="img/KevinShineGeorge.png" alt="Kevin Shine George photo" width="250"/>
 
 ### Kevin Shine George
 
