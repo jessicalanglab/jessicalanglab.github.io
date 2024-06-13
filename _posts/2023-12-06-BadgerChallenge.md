@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Badger Challenge Scholar"
+date: 2023-12-06 23:45:13 -0400
+background: '/img/publications.jpg'
 ---
 
 # Badger Challenge Scholar
