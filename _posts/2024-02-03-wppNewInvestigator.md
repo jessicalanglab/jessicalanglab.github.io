@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Wisconsin Partnership Program New Investigator Award funded"
+background: '/img/publications.jpg'
 ---
 
 # Wisconsin Partnership Program New Investigator Award funded

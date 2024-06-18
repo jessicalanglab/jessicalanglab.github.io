@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Department of Defense Ovarian Cancer Research Program Pilot Award selected for funding"
+background: '/img/publications.jpg'
 ---
 
 # Department of Defense Ovarian Cancer Research Program Pilot Award selected for funding
