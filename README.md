@@ -1,8 +1,12 @@
-#Introduction
+# Introduction
 
 Our page is modeled after the remote theme [Bootstrap - Clean Blog Jekyll](https://startbootstrap.com/themes/clean-blog-jekyll/) - Official Jekyll Version
 
 "[Clean Blog Jekyll](https://startbootstrap.com/themes/clean-blog-jekyll/) is a stylish, responsive blog theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working contact form powered by [Formspree](https://formspree.io/)."
+
+* Want to preview changes to your site before you put it online?
+ If you have Jekyll installed, you can run `jekyll serve` on the terminal from the project directory.
+ Then, copy and paste the server address that is reported into your browser to view a locally-hosted version of your site.
 
 ## Copyright and License
 
