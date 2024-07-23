@@ -67,6 +67,11 @@ Josie graduated from the University of Wisconsin-Madison in 2023 with her bachel
 ###### Research Assistant  
 Sydney is an undergraduate at UW-Madison, majoring in Biology with certificates in Global Health and Leadership. She has been a research assistant at the Lang Lab since January of 2022. Outside of the lab, Sydney enjoys baking, running, and spending time with family and friends.
 
+<img src="img/KerstenLauren.jpg" alt="Lauren Kersten" width="250"/>
+
+### Lauren Kersten
+Lauren is a double Major in Molecular and Cell Biology and Spanish. She joined the Lang lab in February of 2024. Lauren has aspirations of going to medical school after receiving her bachelor's degrees. In her free time, Lauren enjoys cycling, going on walks with her dog, horseback riding and volunteering at a local therapeutic horseback riding center. 
+
 <img src="img/Bucky_dances.jpg" alt="Bucky Dances" width="250"/>
 
 ### Amelia Rancour
