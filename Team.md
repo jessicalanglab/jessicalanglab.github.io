@@ -5,10 +5,10 @@ description: Current research team
 background: '/img/bg-pipetting.jpg'
 ---
 
-<img src="img/ORIGINAL_to_JPEG-Jessica Lang WIMR Lab 1149900-1231.jpg" alt="Lang Lab members photo" width="700"/>
+<img src="img/2024labphoto.jpg" alt="Lang Lab members photo" width="700"/>
 Welcome to the Lang Lab! We have a great group of people working in our group.
 
-<img src="img/ORIGINAL_to_JPEG-Jessica Lang WIMR Lab 1149900-1533.jpg" alt="Jessica Lang headshot" width="400"/>
+<img src="img/ORIGINAL_to_JPEG-Jessica Lang WIMR Lab 1149900-1533.jpg" alt="Jessica Lang headshot" width="300"/>
 
 ### Jessica Lang, PhD
 
@@ -23,7 +23,7 @@ Welcome to the Lang Lab! We have a great group of people working in our group.
 Jessica obtained her bachelors (Genetics, 2009) and doctorate (Cancer Biology, 2014) at the University of Wisconsin-Madison. She then completed two postdoctoral fellowships at Arizona State University and The Translational Genomics Research Institute (TGen). Jessica was awarded an NCI K99/R00 in 2019 to focus her studies on the role of super-enhancers in high-grade serous ovarian carcinomas. She joined the University of Wisconsin-Madison faculty in 2021, where she will leverage her experience in translational biology, genomics, and epigenetics.  
 In her spare time, Jessica enjoys spending time with her family, cooking, outdoors activities, reading, and game nights.
 
-<img src="img/Adams_Kristin_182.jpg" alt="Kristin Adams headshot" width="400"/>
+<img src="img/Adams_Kristin_182.jpg" alt="Kristin Adams headshot" width="300"/>
 
 ### Kristin Adams, MS
 
@@ -47,18 +47,11 @@ Outside of work, Kendra enjoys reading, working out, traveling, and spending tim
 ###### Graduate Student  
 Jin is a graduate student from the Cellular and Molecular Biology program. His work focuses on characterizing the functional requirement of super-enhancers in ovarian cancer. 
 
-<img src="img/Screenshot 2023-03-06 at 10.25.50 AM.png" alt="Ryan Moreno headshot" width="400"/>
+<img src="img/Screenshot 2023-03-06 at 10.25.50 AM.png" alt="Ryan Moreno headshot" width="300"/>
 
 ### Ryan Moreno
 ###### Graduate Student 
 Ryan Moreno is a computer science graduate student at UW-Madison assisting with our computational projects. He obtained his bachelors in computer science from the University of Southern California in 2020. He has worked in a variety of research areas, including quantum computing, natural language processing, and medical prosthetics. Outside of work, Ryan enjoys running, soccer, hockey, and board games.
-
-<img src="img/Bucky_dances.jpg" alt="Bucky dances" width="250"/>
-
-### Josie Wood
-
-###### Research Intern  
-Josie graduated from the University of Wisconsin-Madison in 2023 with her bachelor’s degree in Biology. She joined the Lang lab as a Research Assistant in January of 2022 and has hopes to pursue medical school in the future. In her free time, Josie enjoys cooking, spin classes, volunteering at a local animal shelter, and checking out fun spots in Madison with her friends.
 
 <img src="img/Bucky_headstand.jpg" alt="Bucky Headstand" width="250"/>
 
@@ -67,7 +60,7 @@ Josie graduated from the University of Wisconsin-Madison in 2023 with her bachel
 ###### Research Assistant  
 Sydney is an undergraduate at UW-Madison, majoring in Biology with certificates in Global Health and Leadership. She has been a research assistant at the Lang Lab since January of 2022. Outside of the lab, Sydney enjoys baking, running, and spending time with family and friends.
 
-<img src="img/KerstenLauren.jpg" alt="Lauren Kersten" width="250"/>
+<img src="img/KerstenLauren.jpg" alt="Lauren Kersten" width="300"/>
 
 ### Lauren Kersten
 Lauren is a double Major in Molecular and Cell Biology and Spanish. She joined the Lang lab in February of 2024. Lauren has aspirations of going to medical school after receiving her bachelor's degrees. In her free time, Lauren enjoys cycling, going on walks with her dog, horseback riding and volunteering at a local therapeutic horseback riding center. 
@@ -79,7 +72,7 @@ Lauren is a double Major in Molecular and Cell Biology and Spanish. She joined t
 ###### Research Assistant  
 Amelia is an undergraduate majoring in biochemistry at UW-Madison.  She joined the lab in May of 2024 as a research assistant.  Amelia plans to go to graduate school and become a scientific researcher.  In her free time, she likes to play the piano, read, crochet, hang out with friends, and play soccer.
 
-<img src="img/KevinShineGeorge.png" alt="Kevin Shine George photo" width="250"/>
+<img src="img/KevinShineGeorge.png" alt="Kevin Shine George photo" width="300"/>
 
 ### Kevin Shine George
 
@@ -87,7 +80,8 @@ Amelia is an undergraduate majoring in biochemistry at UW-Madison.  She joined t
 Kevin is an undergraduate student at UW-Madison, where he is pursuing dual majors in Computer Science and Data Science. He assists with our computational projects and aspires to attend graduate school in the future. Kevin's area of expertise primarily centers around data wrangling and analytics. Outside of his academic and professional pursuits, he enjoys staying active through badminton, working out, and reading, as well as listening to music and spending time with friends.
 
 # Former Lab Members:
-Srihari Gopalan - Research Assistant 
+Josie Wood - Research Intern and Research Assistant (2022-2024)
+Srihari Gopalan - Research Assistant (2022-2024)
 
 # We're growing our team!  
 
