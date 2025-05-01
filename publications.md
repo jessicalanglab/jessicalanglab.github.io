@@ -7,9 +7,18 @@ background: '/img/news1.jpg'
 The following is Dr. Lang's bibliography. Stay tuned for more great research to come!
 
 ### Preprints in review
-Lang JD*. Selleck W, Striker S, Hipschman NA, Kofman R, Karnezis AN, Kommoss FKF, Komoss F, Wendt J, Facista SJ, Hendricks WPD, Orlando KA, Pirrotte P, Raupach EA, Zismann VL, Wang Y, Huntsman DG, Weissman BE, Trent JM. **Landscape of super-enhancers in small cell carcinoma of the ovary, hypercalcemic type and efficacy of targeting with natural product triptolide.** bioRxiv. 2023 September; doi: 10.1101/2023.09.08.556863. * corresponding author
 
-Raupach EA, Garcia-Mansfield K, Sharma R, Hegde AM, David-Dirgo V, Wang Y, Young Shin C, Tao LV, Facista SJ, Moore R, Lang JD, Zismann VL, Orlando KA, Spillman M, Karnezis AN, Bennett LB, Huntsman DG, Trent JM, Hendricks WP, Weissman BE, Pirrotte P. **Novel functional insights revealed by distinct protein-protein interactions of the residual SWI/SNF complex in SMARCA4-deficient small cell carcinoma of the ovary, hypercalcemic type.** bioRxiv. 2019 October; doi: 10.1101/794776. 
+Adams KM, Wendt JR, Wood J, Olson S, Moreno R, Jin Z, Gopalan S, Lang JD*. **Cell-intrinsic platinum response and associated genetic and gene expression signatures in ovarian cancer cell lines and isogenic models.** bioRxiv [Preprint]. 2024 Jul 29:2024.07.26.605381. doi: 10.1101/2024.07.26.605381. * corresponding author
+
+Shen Z, Adams K, Moreno R, Lera R, Kaufman E, Lang JD, Burkard M. **Polo-like kinase 1 maintains transcription and chromosomal accessibility during mitosis.** bioRxiv [Preprint]. 2025 Feb 16:2025.02.12.637959. doi: 10.1101/2025.02.12.637959.
+
+### Recently accepted for publication
+
+Raupach EA, Garcia-Mansfield K, Sharma R, Hegde AM, David-Dirgo V, Wang Y, Young Shin C, Tao LV, Facista SJ, Moore R, Lang JD, Zismann VL, Orlando KA, Spillman M, Karnezis AN, Bennett LB, Huntsman DG, Trent JM, Hendricks WP, Weissman BE, Pirrotte P. **Super-enhancers and efficacy of triptolide in small cell carcinoma of the ovary hypercalcemic type.** Cancer Research (January 15, 2025) Previously preprinted at bioRxiv. 2019 October; doi: 10.1101/794776. 
+
+### 2025
+
+Lang JD*. Selleck W, Striker S, Hipschman NA, Kofman R, Karnezis AN, Kommoss FKF, Komoss F, Wendt J, Facista SJ, Hendricks WPD, Orlando KA, Pirrotte P, Raupach EA, Zismann VL, Wang Y, Huntsman DG, Weissman BE, Trent JM. **Landscape of super-enhancers in small cell carcinoma of the ovary, hypercalcemic type and efficacy of targeting with natural product triptolide.** iScience. 2025 Jan 7;28(2):111770. doi: 10.1016/j.isci.2025.111770. * corresponding author
 
 ### 2024
 
