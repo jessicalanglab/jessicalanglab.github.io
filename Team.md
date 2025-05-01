@@ -47,12 +47,6 @@ Outside of work, Kendra enjoys reading, working out, traveling, and spending tim
 ###### Graduate Student  
 Jin is a graduate student from the Cellular and Molecular Biology program. His work focuses on characterizing the functional requirement of super-enhancers in ovarian cancer. 
 
-<img src="img/Screenshot 2023-03-06 at 10.25.50 AM.png" alt="Ryan Moreno headshot" width="300"/>
-
-### Ryan Moreno
-###### Graduate Student 
-Ryan Moreno is a computer science graduate student at UW-Madison assisting with our computational projects. He obtained his bachelors in computer science from the University of Southern California in 2020. He has worked in a variety of research areas, including quantum computing, natural language processing, and medical prosthetics. Outside of work, Ryan enjoys running, soccer, hockey, and board games.
-
 <img src="img/Bucky_headstand.jpg" alt="Bucky Headstand" width="250"/>
 
 ### Sydney Olson
@@ -72,16 +66,12 @@ Lauren is a double Major in Molecular and Cell Biology and Spanish. She joined t
 ###### Research Assistant  
 Amelia is an undergraduate majoring in biochemistry at UW-Madison.  She joined the lab in May of 2024 as a research assistant.  Amelia plans to go to graduate school and become a scientific researcher.  In her free time, she likes to play the piano, read, crochet, hang out with friends, and play soccer.
 
-<img src="img/KevinShineGeorge.png" alt="Kevin Shine George photo" width="300"/>
-
-### Kevin Shine George
-
-###### Research Assistant  
-Kevin is an undergraduate student at UW-Madison, where he is pursuing dual majors in Computer Science and Data Science. He assists with our computational projects and aspires to attend graduate school in the future. Kevin's area of expertise primarily centers around data wrangling and analytics. Outside of his academic and professional pursuits, he enjoys staying active through badminton, working out, and reading, as well as listening to music and spending time with friends.
 
 # Former Lab Members:
 Josie Wood - Research Intern and Research Assistant (2022-2024)
 Srihari Gopalan - Research Assistant (2022-2024)
+Kevin Shine George - Research Assistant (2024-2025)
+Ryan Moreno - Graduate Student (2023-2024)
 
 # We're growing our team!  
 
