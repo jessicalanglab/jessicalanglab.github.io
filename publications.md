@@ -14,7 +14,7 @@ Shen Z, Adams K, Moreno R, Lera R, Kaufman E, Lang JD, Burkard M. **Polo-like ki
 
 ### Recently accepted for publication
 
-Raupach EA, Garcia-Mansfield K, Sharma R, Hegde AM, David-Dirgo V, Wang Y, Young Shin C, Tao LV, Facista SJ, Moore R, Lang JD, Zismann VL, Orlando KA, Spillman M, Karnezis AN, Bennett LB, Huntsman DG, Trent JM, Hendricks WP, Weissman BE, Pirrotte P. **Super-enhancers and efficacy of triptolide in small cell carcinoma of the ovary hypercalcemic type.** Cancer Research (January 15, 2025) Previously preprinted at bioRxiv. 2019 October; doi: 10.1101/794776. 
+Raupach EA, Garcia-Mansfield K, Sharma R, Hegde AM, David-Dirgo V, Wang Y, Young Shin C, Tao LV, Facista SJ, Moore R, Lang JD, Zismann VL, Orlando KA, Spillman M, Karnezis AN, Bennett LB, Huntsman DG, Trent JM, Hendricks WP, Weissman BE, Pirrotte P. **Super-enhancers and efficacy of triptolide in small cell carcinoma of the ovary hypercalcemic type.** Cancer Research (January 15, 2025). Previously preprinted at bioRxiv: 2019 October; doi: 10.1101/794776. 
 
 ### 2025
 
