@@ -16,7 +16,7 @@ Welcome to the Lang Lab! We have a great group of people working with us.
 
 ###### Department of Pathology and Laboratory Medicine
 
-###### Center for Human Genomics and Precision Medicine Faculty Member
+###### Center for Precision Medicine Faculty Member
 
 ###### Center for Genomic Science Innovation Affiliate Faculty Member
 

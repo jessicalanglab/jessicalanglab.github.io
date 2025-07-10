@@ -8,15 +8,17 @@ The following is Dr. Lang's bibliography. Stay tuned for more great research to 
 
 ### Preprints in review
 
-Adams KM, Wendt JR, Wood J, Olson S, Moreno R, Jin Z, Gopalan S, Lang JD*. **Cell-intrinsic platinum response and associated genetic and gene expression signatures in ovarian cancer cell lines and isogenic models.** bioRxiv [Preprint]. 2024 Jul 29:2024.07.26.605381. doi: [10.1101/2024.07.26.605381](https://doi.org/10.1101/2024.07.26.605381). * corresponding author
-
 Shen Z, Adams K, Moreno R, Lera R, Kaufman E, Lang JD, Burkard M. **Polo-like kinase 1 maintains transcription and chromosomal accessibility during mitosis.** bioRxiv [Preprint]. 2025 Feb 16:2025.02.12.637959. doi: [10.1101/2025.02.12.637959](https://doi.org/10.1101/2025.02.12.637959).
 
 ### Recently accepted for publication
 
-Raupach EA, Garcia-Mansfield K, Sharma R, Hegde AM, David-Dirgo V, Wang Y, Young Shin C, Tao LV, Facista SJ, Moore R, Lang JD, Zismann VL, Orlando KA, Spillman M, Karnezis AN, Bennett LB, Huntsman DG, Trent JM, Hendricks WP, Weissman BE, Pirrotte P. **Loss of SMARCA4 leads to Intron Retention and Generation of Tumor-Associated Antigens in Small Cell Carcinoma of the Ovary, Hypercalcemic Type.** Cancer Research (January 15, 2025). Previously preprinted at bioRxiv: 2019 October; doi: [10.1101/794776](https://doi.org/10.1101/794776). 
+Adams KM, Wendt JR, Wood J, Olson S, Moreno R, Jin Z, Gopalan S, Lang JD*. **Cell-intrinsic platinum response and associated genetic and gene expression signatures in ovarian cancer cell lines and isogenic models.** Cancer Gene Therapy. Accepted for publication July 7, 2025. Previously posted on bioRxiv [Preprint]. 2024 Jul 29:2024.07.26.605381. doi: [10.1101/2024.07.26.605381](https://doi.org/10.1101/2024.07.26.605381). * corresponding author
 
 ### 2025
+
+Evans JR, Wang J, Reed CN, Creighton JH, Garrison, KB, Robertson AN, Lira-Rivera A, Baisden DD, Tansey WP, Al-Tobasei R, Lang JD, Liu Q, Weissmiller AM. **MYC Regulates a DNA Repair Gene Expression Program in Small Cell Carcinoma of the Ovary, Hypercalcemic Type.** Cancers. 2025 Jul 7;17(3):2255. doi: [10.3390/cancers17132255](https://doi.org/10.3390/cancers17132255).
+
+Raupach EA, Garcia-Mansfield K, Sharma R, Hegde AM, David-Dirgo V, Wang Y, Young Shin C, Tao LV, Facista SJ, Moore R, Lang JD, Zismann VL, Orlando KA, Spillman M, Karnezis AN, Bennett LB, Huntsman DG, Trent JM, Hendricks WP, Weissman BE, Pirrotte P. **Loss of SMARCA4 leads to Intron Retention and Generation of Tumor-Associated Antigens in Small Cell Carcinoma of the Ovary, Hypercalcemic Type.** Cancer Res. 2025 May 23. doi: [10.1158/0008-5472.CAN-24-0044](https://doi.org/10.1158/0008-5472.can-24-0044). 
 
 Lang JD*. Selleck W, Striker S, Hipschman NA, Kofman R, Karnezis AN, Kommoss FKF, Komoss F, Wendt J, Facista SJ, Hendricks WPD, Orlando KA, Pirrotte P, Raupach EA, Zismann VL, Wang Y, Huntsman DG, Weissman BE, Trent JM. **Super-enhancers and efficacy of triptolide in small cell carcinoma of the ovary hypercalcemic type.** iScience. 2025 Jan 7;28(2):111770. doi: [10.1016/j.isci.2025.111770](https://doi.org/10.1016/j.isci.2025.111770). * corresponding author
 
