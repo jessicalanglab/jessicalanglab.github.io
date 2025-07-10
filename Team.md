@@ -76,8 +76,7 @@ Ryan Moreno - Graduate Student (2023-2024)
 # We're growing our team!  
 
 ### Postdocs
-We continuously review highly qualified postdoc applicants.
-[Please submit CV & cover letter here](mailto:jessica.lang@wisc.edu).
+We continuously review highly qualified postdoc applicants. Send Dr. Lang an email with CV and cover letter.
 
 ### Affiliated graduate programs
 [Cellular & Molecular Pathology](https://cmp.wisc.edu/)  
