@@ -47,16 +47,11 @@ Outside of work, Kendra enjoys reading, working out, traveling, and spending tim
 ###### Graduate Student  
 Jin is a graduate student from the Cellular and Molecular Biology program. His work focuses on characterizing the functional requirement of super-enhancers in ovarian cancer. 
 
-<img src="img/Bucky_headstand.jpg" alt="Bucky Headstand" width="250"/>
-
-### Sydney Olson
-
-###### Research Assistant  
-Sydney is an undergraduate at UW-Madison, majoring in Biology with certificates in Global Health and Leadership. She has been a research assistant at the Lang Lab since January of 2022. Outside of the lab, Sydney enjoys baking, running, and spending time with family and friends.
-
 <img src="img/KerstenLauren.jpg" alt="Lauren Kersten" width="300"/>
 
 ### Lauren Kersten
+
+###### Research Assistant  
 Lauren is a double Major in Molecular and Cell Biology and Spanish. She joined the Lang lab in February of 2024. Lauren has aspirations of going to medical school after receiving her bachelor's degrees. In her free time, Lauren enjoys cycling, going on walks with her dog, horseback riding and volunteering at a local therapeutic horseback riding center. 
 
 <img src="img/Bucky_dances.jpg" alt="Bucky Dances" width="250"/>
@@ -72,6 +67,7 @@ Josie Wood - Research Intern and Research Assistant (2022-2024)
 Srihari Gopalan - Research Assistant (2022-2024)
 Kevin Shine George - Research Assistant (2024-2025)
 Ryan Moreno - Graduate Student (2023-2024)
+Sydney Olson - Research Assistant (2022-2025)
 
 # We're growing our team!  
 
