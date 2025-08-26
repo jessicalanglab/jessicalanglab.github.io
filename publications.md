@@ -8,9 +8,11 @@ The following is Dr. Lang's bibliography. Stay tuned for more great research to 
 
 ### Preprints in review
 
-Shen Z, Adams K, Moreno R, Lera R, Kaufman E, Lang JD, Burkard M. **Polo-like kinase 1 maintains transcription and chromosomal accessibility during mitosis.** bioRxiv [Preprint]. 2025 Feb 16:2025.02.12.637959. doi: [10.1101/2025.02.12.637959](https://doi.org/10.1101/2025.02.12.637959).
+More coming soon!
 
 ### 2025
+
+Shen Z, Adams K, Moreno R, Lera R, Kaufman E, Lang JD, Burkard M. **Polo-like kinase 1 maintains transcription and chromosomal accessibility during mitosis.** Mol Biol Cell 2025 Aug 13:mbcE25020053. Online ahead of print. doi: [10.1091/mbc.E25-02-0053](https://doi.org/10.1091/mbc.E25-02-0053).
 
 Adams KM, Wendt JR, Wood J, Olson S, Moreno R, Jin Z, Gopalan S, Lang JD*. **Cell-intrinsic platinum response and associated genetic and gene expression signatures in ovarian cancer cell lines and isogenic models.** Cancer Gene Ther. 2025 Jul 19. [Epub ahead of print] doi: [10.1038/s41417-025-00941-5](https://doi.org/10.1038/s41417-025-00941-5). * corresponding author
 
