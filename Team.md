@@ -47,6 +47,13 @@ Outside of work, Kendra enjoys reading, working out, traveling, and spending tim
 ###### Graduate Student  
 Jin is a graduate student from the Cellular and Molecular Biology program. His work focuses on characterizing the functional requirement of super-enhancers in ovarian cancer. 
 
+<img src="img/Bucky_headstand.jpg" alt="Christina Gao" width="300"/>
+
+### Christina Gao, MS
+
+###### Graduate Student  
+Christina is a graduate student from the Cancer Biology program. She obtained her bachelors (Physiology, 2023) at the University of Washinton-Seattle and her masters (Molecular Pathology and Experimental Medicine, 2025) at the University of Southern California. In her free time, Christina enjoys pilates, trail walking, cooking, and traveling.
+
 <img src="img/KerstenLauren.jpg" alt="Lauren Kersten" width="300"/>
 
 ### Lauren Kersten
@@ -60,6 +67,13 @@ Lauren is a double Major in Molecular and Cell Biology and Spanish. She joined t
 
 ###### Research Assistant  
 Amelia is an undergraduate majoring in biochemistry at UW-Madison.  She joined the lab in May of 2024 as a research assistant.  Amelia plans to go to graduate school and become a scientific researcher.  In her free time, she likes to play the piano, read, crochet, hang out with friends, and play soccer.
+
+<img src="img/IMG_6554.jpeg" alt="Ava Busch-Manske" width="250"/>
+
+### Ava Busch-Manske
+
+###### Research Assistant  
+Ava is an undergraduate majoring in biochemistry, and she aspires to attend medical school following graduation at UW-Madison. She joined the lab in October of 2025 as a research assistant. In her free time, Ava likes to spend time outside, do crafts, hang out with friends, and solve crossword puzzles. 
 
 
 # Former Lab Members:
